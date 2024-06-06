@@ -13,6 +13,13 @@ We may collect information about your computer, including where available your I
         
 We use this information to provide you with the best possible experience when using our services. This information is also used to help us improve our service and provide you with personalized content recommendations. Additionally, we may use this information to send you promotional emails about new features and updates to our service, but you may opt-out of these emails at any time.
 
+**Cookies**
+
+Definition: A cookie is a small data file that a website stores on the user's device through the web browser.
+Purpose: Remember information about the user to improve the browsing experience and personalize content. Cookies can store user preferences, session data, authentication information, etc.
+
+Keeping this in mind, this website does not use cookies, in other words, our website does not store any data on the user's device.
+
 
 **Data Sharing**
 
