@@ -5,9 +5,8 @@ We take the privacy of our users seriously and are committed to protecting your 
 
 **Information Collection and Use**
 
-	IP
-	Metamask wallet address
-	Language preference
+-IP
+-Language preference
         
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration. This is statistical data about our user's browsing actions and patterns and does not identify any individual.
         
